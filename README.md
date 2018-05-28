@@ -4,7 +4,7 @@ For use with [KiCad](http://kicad-pcb.org/), an open source PCB design/layout to
 
 The [micro:bit](http://microbit.org/) has an 80 pin edge connector (not all pins are active). 
 
-Sockets (right-angle) for the edge connector can be obtained from [Kitronic](https://www.kitronic.co.uk):
+Sockets (right-angle) for the edge connector can be obtained from [Kitronik](https://www.kitronik.co.uk):
 
 [Edge Connector Breakout Board for the BBC micro:bit](https://www.kitronik.co.uk/5601-edge-connector-breakout-board.html)
 
@@ -27,3 +27,7 @@ CvPcb (association of components->footprints)
 
 - Open dialog: Preferences -> Footprint Libraries
 - "Append with Wizard", browse to the directory ```microbit-edge-connector.pretty```
+
+### License:
+
+MIT
