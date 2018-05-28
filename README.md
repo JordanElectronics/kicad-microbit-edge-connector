@@ -13,7 +13,7 @@ This library was written for the through-hole, angled version of the socket.
 ### Contents:
 
 - [microbit-edge-connector-lib](./microbit-edge-connector-lib) - Schematic Component Library 
-- [microbit-edge-connector.pretty](./microbit-edge-connector-lib.pretty) - PCB Footprint
+- [microbit-edge-connector.pretty](./microbit-edge-connector.pretty) - PCB Footprint
 - [Datasheet](./Datasheet) - Connector Datasheet
 
 ### How to use:
